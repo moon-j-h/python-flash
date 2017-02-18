@@ -362,11 +362,11 @@ config.StagingConfig
 {% endhighlight %}
 
 __Production__ :
-```python
+{% highlight %}
 $ heroku run python app.py --app wordcount-pro
 Running python app.py on wordcount-pro... up, run.8934
 config.ProductionConfig
-```
+{% endhighlight %}
 
 테스트가 끝나면 `print(os.environ['APP_SETTINGS'])`를 제거하고, 모든 환경에 commit과 push를 하라.
 
