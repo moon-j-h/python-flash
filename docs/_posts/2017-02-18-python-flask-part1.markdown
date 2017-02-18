@@ -92,7 +92,7 @@ $ pip freeze > requirements.txt
 
 *app.py*을 열어 다음의 코드를 입력하자 : 
 
-{% highlight % python}
+{% highlight python%}
 from flask import Flask
 app = Flask(__name__)
 
@@ -186,7 +186,7 @@ c.f> heroku에 ssh key 추가하기
 
 app을 변경하고 staging에만 push 하자 : 
 
-{% highlight % python}
+{% highlight python %}
 from flask import Flask
 app = Flask(__name__)
 
