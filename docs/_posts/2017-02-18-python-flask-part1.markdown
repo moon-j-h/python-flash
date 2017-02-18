@@ -5,7 +5,7 @@ date:   2017-02-18 18:47:50 +0900
 categories: translation
 ---
 
-이 포스티은 (원문)[https://realpython.com/blog/python/flask-by-example-part-1-project-setup/]을 의역하고 필요한 부분은 추가한 것.
+이 포스터는 [원문](https://realpython.com/blog/python/flask-by-example-part-1-project-setup/)을 의역하고 필요한 부분은 추가한 것.
 
 
 > Part one : 로컬 개발 환경을 설치하고 Heroku의 staging과 production 환경에 양 쪽에 배포하자
