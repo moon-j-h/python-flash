@@ -23,7 +23,7 @@ Heroku의 staging과 production환경에 있는 "Hello World" 앱으로 시작�
 
 먼저, 작업 디렉토리를 설정하자 :
 
-{% highlight %}
+{% highlight text %}
 $ mkdir flask-by-example
 $ cd flask-by-example
 {% endhighlight %}
