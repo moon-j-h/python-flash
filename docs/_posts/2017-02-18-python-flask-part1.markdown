@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "part1"
+subtitle: "환경 세팅 및 간단한 테스트"
 date:   2017-02-18 18:47:50 +0900
 categories: translation
 ---

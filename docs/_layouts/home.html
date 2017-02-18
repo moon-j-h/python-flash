@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h3><a href="https://moon-j-h.github.io/">Go to Main Page.</a>
+  <h1 class="page-heading">Contents</h1>
+  
+  {{ content }}
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </h2>
+        <span style="font-size: 0.8em;color : grey">{{post.subtitle}}</span>
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>
