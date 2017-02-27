@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "part4"
-date:   2017-02-22 21:26:47 +0900
+date:   2017-02-24 18:16:21 +0900
 categories: translation
 ---
 
