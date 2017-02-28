@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "part6"
+title:  "part7"
 date:   2017-02-28 19:41:42 +0900
 categories: translation
 ---
