@@ -204,4 +204,4 @@ $scope.urlerror = false;
 
 
 
-[원문 : flask-by-example-part6](https://realpython.com/blog/python/flask-by-example-updating-the-ui/)
+[원문 : flask-by-example-part7](https://realpython.com/blog/python/flask-by-example-updating-the-ui/)

@@ -226,4 +226,4 @@ link: function (scope) {
 
 
 
-[원문 : flask-by-example-part6](https://realpython.com/blog/python/flask-by-example-custom-angular-directive-with-D3/)
+[원문 : flask-by-example-part8](https://realpython.com/blog/python/flask-by-example-custom-angular-directive-with-D3/)
